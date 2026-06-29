@@ -7,7 +7,7 @@ const API = {
     return `${this.baseURL}/seed/${seed}/1280/720`
   }
 }
-
+ 
 const categories = [
   {
     title: 'Tendencias',
